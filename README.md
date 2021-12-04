@@ -51,3 +51,7 @@ rm -rf app
 # copy your app over
 cp -R ../my-old-remix-app/app app
 ```
+
+## Resources
+
+- [Remix Tutorial with Kent C. Dodds](https://www.youtube.com/watch?v=hsIWJpuxNj0)
